@@ -1,0 +1,46 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary, built by go test
+*.test
+*.test.exe
+
+# Output of the go coverage tool
+*.out
+
+# Go vendor directory (if not using modules)
+vendor/
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.iml
+
+# Logs and debugging
+*.log
+
+# Dependency directories (if using vendoring)
+vendor/
+
+# Go build artifacts
+*.o
+*.a
+
+# Environment files
+.env
+
+# AWS Private keys
+*.pem
+*.key
+
+# macOS files
+.DS_Store
+
+# Windows Thumbs.db
+Thumbs.db
+
+# Linux file system things
+lost+found/
